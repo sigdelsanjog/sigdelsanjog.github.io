@@ -1,3 +1,8 @@
+---
+layout: post
+title: MDI SPRINT 1 RETROSPECTIVE
+---
+
 * Year: 2017
 * Quarter: 1st
 * Sprint No.: 1
