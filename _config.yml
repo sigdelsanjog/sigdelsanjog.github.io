@@ -1,6 +1,4 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
@@ -18,4 +16,11 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
