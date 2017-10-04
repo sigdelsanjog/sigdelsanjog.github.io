@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Sanjog 
-tagline:             'Admin's Backyard'
-description:         'Here at my Backyard I'll be updating everything which I feel like needs to be shared :) Find me on twitter <a href="https://twitter.com/sigdelsanjog" target="_blank">@sigdelsanjog</a>.'
+tagline:             "Admin's Backyard"
+description:         "Here at my Backyard I'll be updating everything which I feel like needs to be shared :) Find me on twitter <a href="https://twitter.com/sigdelsanjog" target="_blank">@sigdelsanjog</a>."
 url:                 ''
 baseurl:             ''
 paginate:            5
