@@ -2,18 +2,18 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Sanjog 
+tagline:             'Admin's Backyard'
+description:         'Here at my Backyard I'll be updating everything which I feel like needs to be shared :) Find me on twitter <a href="https://twitter.com/sigdelsanjog" target="_blank">@sigdelsanjog</a>.'
 url:                 ''
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Sanjog Sigdel
+  url:               https://twitter.com/sigdelsanjog
+  email:             admin@techjhola.com
 
 # Custom vars
 version:             2.0.0
